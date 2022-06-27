@@ -1,2 +1,3 @@
 print("Hello World!")
-print("ABCD")
+print("ABCEFG")
+print("5678") 
